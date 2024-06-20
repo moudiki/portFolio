@@ -10,8 +10,8 @@ export default {
       'gold':'#FFBD39',
       'white':'#FFFF',
       'black':'#000000',
-      
-      
+      'grey':'#FFFFFF80',
+      'blond': '#FFFFFF1A',
       
     },
   
