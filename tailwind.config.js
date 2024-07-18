@@ -5,17 +5,18 @@ export default {
     "./index.html",
     "./src/**/*.{vue,js,ts,jsx,tsx}",
   ],
-  theme: {
-    colors:{
-      'gold':'#FFBD39',
-      'white':'#FFFF',
-      'black':'#000000',
-      'grey':'#FFFFFF80',
-      'blond': '#FFFFFF1A',
-      
-    },
+  theme: {  
   
-    extend: {},
+    extend: {
+      colors:{
+        'gold':'#FFBD39',
+        'white':'#FFFF',
+        'black':'#000000',
+        'grey':'#FFFFFF80',
+        'blond': '#FFFFFF1A',
+        
+      },
+    },
   },
   plugins: [],
 }

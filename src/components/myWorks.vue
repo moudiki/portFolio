@@ -1,6 +1,6 @@
 <script setup >
 import myFooter from './myFooter.vue';
-import NavBar from './navBar.vue';
+import navBar from './navBar.vue';
 
    
 </script>
@@ -10,7 +10,7 @@ import NavBar from './navBar.vue';
     <header>
         <navBar />
     </header>
-    <div class="  uk-container mt-10  " uk-scrollspy="cls: uk-animation-slide-bottom; target: .resume; delay: 500; repeat: true">
+    <div class="  uk-container mt-10  " uk-scrollspy="cls: uk-animation-slide-bottom; target: .resume; delay: 500;">
         <div class="relative w-fit m-auto resume">
                 <h1 class="font-bold z-0 absolute left-[-10px] bottom-[-17px] text-center " >Works</h1>
                 <h1 class="text-white font-bold z-100 relative text-center " >Works</h1>
@@ -37,10 +37,10 @@ import NavBar from './navBar.vue';
                 <p class="" >Siantou University</p>
             </div>
         </div>
-        <div class="w-fit m-auto resume ">
-            <button class="bg-gold px-7 py-4 rounded-full mt-10 " ><a class="text-black mt-4 " >Download CV</a></button>
-
+        <div class="w-fit m-auto mt-10" >
+            <a href="" class="no-underline bg-gold text-black p-4 rounded-full  hover:bg-grey" >Download CV</a>
         </div>
+        
        
     </div>
     <footer>

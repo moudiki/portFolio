@@ -11,16 +11,18 @@
                        
               </li>
         </ul>
-        <p class="text-white text-center text-[14px] " >©2024 Lionel Moudiki. All rights reserved</p>
+        <p class="text-grey text-center text-[14px] " >©2024 Lionel Moudiki. All rights reserved</p>
     </div>
 </template>
 
 <script setup >
     const Links = [
-              
+
+                
+                {name : "Home" , path: "/"},  
                 {name : "About" , path: "/aboutMe"},
                 {name : "Works" , path: "/myWorks"},
                 {name : "Projects" , path: "/myProjects"},
-                {name : "Contact" , path: "/contactsMe"},
+               
             ]
 </script>
