@@ -17,24 +17,24 @@ import navBar from './navBar.vue';
         </div>
         <div class="grid gap-4 md:grid-cols-2 resume mt-10" >
             <div class="bg-blond p-7 rounded-md " >
-                <h2 class="text-gold  font-bold" >2021-2022</h2>
-                <h2 class="mt-0 text-white  " >Bachelor's Degree in Software Engineering</h2>
-                <p class="" >Siantou University</p>
+                <h2 class="text-gold  font-bold" > 04/2023 - Present</h2>
+                <h2 class="mt-0 text-white  " >Front-end developer at Gohze</h2>
+                <p>Intregation of the frontend part of all the application develop at the company</p>
             </div>
             <div class="bg-blond p-7 rounded-md " >
-                <h2 class="text-gold  font-bold" >2021-2022</h2>
-                <h2 class="mt-0 text-white  " >Bachelor's Degree in Software Engineering</h2>
-                <p class="" >Siantou University</p>
+                <h2 class="text-gold  font-bold" > 04/2023 - Present</h2>
+                <h2 class="mt-0 text-white  " >Front-end developer at Gohze</h2>
+                <p>Intregation of the frontend part of all the application develop at the company</p>
             </div>
             <div class="bg-blond p-7 rounded-md " >
-                <h2 class="text-gold  font-bold" >2021-2022</h2>
-                <h2 class="mt-0 text-white  " >Bachelor's Degree in Software Engineering</h2>
-                <p class="" >Siantou University</p>
+                <h2 class="text-gold  font-bold" > 04/2023 - Present</h2>
+                <h2 class="mt-0 text-white  " >Front-end developer at Gohze</h2>
+                <p>Intregation of the frontend part of all the application develop at the company</p>
             </div>
             <div class="bg-blond p-7 rounded-md " >
-                <h2 class="text-gold  font-bold" >2021-2022</h2>
-                <h2 class="mt-0 text-white  " >Bachelor's Degree in Software Engineering</h2>
-                <p class="" >Siantou University</p>
+                <h2 class="text-gold  font-bold" > 04/2023 - Present</h2>
+                <h2 class="mt-0 text-white  " >Front-end developer at Gohze</h2>
+                <p>Intregation of the frontend part of all the application develop at the company</p>
             </div>
         </div>
         <div class="w-fit m-auto mt-10" >

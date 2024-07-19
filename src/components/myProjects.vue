@@ -1,5 +1,6 @@
 <script setup >
 import myFooter from './myFooter.vue';
+import MyProjectComp from './myProjectComp.vue';
 import NavBar from './navBar.vue';
 
    
@@ -15,35 +16,53 @@ import NavBar from './navBar.vue';
                 
                 <h1 class="text-white font-bold z-100 relative text-center mt-20 " >My Open Source Projects</h1>
         </div>
-        <div class="grid gap-4 md:grid-cols-2 resume mt-20" >
-            <div class="bg-blond p-7 rounded-md " >
-                <h2 class="text-gold  font-bold" >2021-2022</h2>
-                <h2 class="mt-0 text-white  " >Bachelor's Degree in Software Engineering</h2>
-                <p class="" >Siantou University</p>
+        <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3 resume mt-20  " >
+            <div class="   rounded-xl    cursor-pointer hover:bg-blond p-3 project " >
+                <h3 class="  text-white " >Chaires Website</h3>
+                <p class="font-light" >A chair landing page where you can add proudct to the cart, remove product from the cart</p>
+                <a href="https://add-to-cart-phi-eight.vercel.app/" class="flex gap-2 text-white hover:text-gold no-underline demo " > 
+                   <p>Demo <span class="ml-1" >-></span></p>
+                </a>
             </div>
-            <div class="bg-blond p-7 rounded-md " >
-                <h2 class="text-gold  font-bold" >2021-2022</h2>
-                <h2 class="mt-0 text-white  " >Bachelor's Degree in Software Engineering</h2>
-                <p class="" >Siantou University</p>
+            <div class="   rounded-xl    cursor-pointer hover:bg-blond p-3 project " >
+               
+                <h3 class="  text-white " >Union-Dental Webiste</h3>
+                <p class="font-light" >A chair landing page where you can add proudct to the cart, remove product from the cart</p>
+                <a href="https://add-to-cart-phi-eight.vercel.app/" class="flex gap-2 text-white hover:text-gold no-underline demo " > 
+                   <p>Demo <span class="ml-1" >-></span></p>
+                </a>
             </div>
-            <div class="bg-blond p-7 rounded-md " >
-                <h2 class="text-gold  font-bold" >2021-2022</h2>
-                <h2 class="mt-0 text-white  " >Bachelor's Degree in Software Engineering</h2>
-                <p class="" >Siantou University</p>
+            <div class="   rounded-xl    cursor-pointer hover:bg-blond p-3 project " >
+                <h3 class="  text-white " >Chaires Website</h3>
+                <p class="font-light" >A chair landing page where you can add proudct to the cart, remove product from the cart</p>
+                <a href="https://add-to-cart-phi-eight.vercel.app/" class="flex gap-2 text-white hover:text-gold no-underline demo " > 
+                   <p>Demo <span class="ml-1" >-></span></p>
+                </a>
             </div>
-            <div class="bg-blond p-7 rounded-md " >
-                <h2 class="text-gold  font-bold" >2021-2022</h2>
-                <h2 class="mt-0 text-white  " >Bachelor's Degree in Software Engineering</h2>
-                <p class="" >Siantou University</p>
+            <div class="   rounded-xl    cursor-pointer hover:bg-blond p-3 project " >
+                <h3 class="  text-white " >Chaires Website</h3>
+                <p class="font-light" >A chair landing page where you can add proudct to the cart, remove product from the cart</p>
+                <a href="https://add-to-cart-phi-eight.vercel.app/" class="flex gap-2 text-white hover:text-gold no-underline demo " > 
+                   <p>Demo <span class="ml-1" >-></span></p>
+                </a>
             </div>
-            <div class="bg-blond p-7 rounded-md " >
-                <h2 class="text-gold  font-bold" >2021-2022</h2>
-                <h2 class="mt-0 text-white  " >Bachelor's Degree in Software Engineering</h2>
-                <p class="" >Siantou University</p>
+            <div class="   rounded-xl    cursor-pointer hover:bg-blond p-3 project " >
+                <h3 class="  text-white " >Chaires Website</h3>
+                <p class="font-light" >A chair landing page where you can add proudct to the cart, remove product from the cart</p>
+                <a href="https://add-to-cart-phi-eight.vercel.app/" class="flex gap-2 text-white hover:text-gold no-underline demo " > 
+                   <p>Demo <span class="ml-1" >-></span></p>
+                </a>
             </div>
+            <div class="   rounded-xl    cursor-pointer hover:bg-blond p-3 project " >
+                <h3 class="  text-white " >Chaires Website</h3>
+                <p class="font-light" >A chair landing page where you can add proudct to the cart, remove product from the cart</p>
+                <a href="https://add-to-cart-phi-eight.vercel.app/" class="flex gap-2 text-white hover:text-gold no-underline demo " > 
+                   <p>Demo <span class="ml-1" >-></span></p>
+                </a>
+            </div>
+            
         </div>
-       
-       
+      
     </div>
     <footer>
         <myFooter />
